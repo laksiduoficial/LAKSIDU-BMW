@@ -60973,9 +60973,9 @@
 #!/usr/adams
 
 """
-Author             : Sir Ibrahim Adams
+Author             : Sir laksidu
 contact            : ibraahadams@gmail.com
-Github             : https://github.com/devibraah
+Github             : https://github.com/laksidunimsara1
 my youtube channel : Youtube.com/@ibrahimaitech
 
 subcribe my youtube Channel to learn ethical Hacking ^_^
