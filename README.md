@@ -43,7 +43,7 @@
 1. FORK THIS REPO
 
 
-<a href='https://github.com/laksiduoficial/LAKSIDU-BMWfork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/laksiduoficial/LAKSIDU-BMW/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 
 2. ## DEPLOY BY SESSION ID (WHATSAPP LOG WITH PAIR CODE)
