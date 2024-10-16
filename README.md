@@ -60,7 +60,7 @@ https://github.com/manulofficial7/GitHub-Workflow-Code
 
 4. ## Deploy to HEROKU ↓
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://https://github.com/laksidunimsara1/LAKIYA-MD/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/laksiduoficial/LAKSIDU-BMW/)
 
 5. ## Deploy to RENDER ↓
 
