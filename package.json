@@ -106289,9 +106289,9 @@
 
 
 {
-  "name": "BMW-MD",
+  "name": "laksidu",
   "version": "10.8.1",
-  "description": "BMW-MD latest multi device whatsapp bot",
+  "description": "laksidu latest multi device whatsapp bot",
   "main": "body.js",
   "type": "module",
   "scripts": {
